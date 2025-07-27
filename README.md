@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jay Min </h1>
+  <h1>Jay (Jungi) Min </h1>
 </div>
 <div>
   <img align='left'  width="50%" src="https://github-readme-stats.vercel.app/api?username=Jaygmin&show_icons=true"/>  
