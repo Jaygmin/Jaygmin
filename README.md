@@ -3,8 +3,6 @@
 </div>
 <div>
   <img align='left'  width="50%" src="https://github-readme-stats.vercel.app/api?username=Jaygmin&show_icons=true"/>  
-  <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api/wakatime?username=Jaygmin&theme=dark/">
-
 </div>
 
 <h2>Full Stack Developer</h2>
